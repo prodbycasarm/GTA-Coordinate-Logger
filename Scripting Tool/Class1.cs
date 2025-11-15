@@ -45,6 +45,7 @@ public class TeleportTools : Script
 
             //Notification.Show($"~g~X: {x} Y: {y} Z: {z} Rotation:{heading}");
 
+
             GTA.UI.Notification.Show(
                 GTA.UI.NotificationIcon.Lester,
                 "Directions",
